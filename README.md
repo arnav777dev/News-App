@@ -28,22 +28,5 @@ Our News Android application is your go-to source for staying informed about bot
   <img src="https://firebasestorage.googleapis.com/v0/b/projemanange.appspot.com/o/gitHub%20images%2FScreenshot_2023-11-26-00-01-45-66_2e18505db57828d8c81494444ceb4645.jpg?alt=media&token=aa3b8d44-a4e2-4cd4-9380-f8384fb665e8" alt="News-App" width="170" height="340" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
 </div>
 
-## Getting Started
+## Download APK
 
-1. Clone the repository:
-
-    ```bash
-  https://github.com/Iamshivang/News-App.git
-    ```
-
-2. Open the project in Android Studio.
-
-3. Build and run the app on your Android device or emulator.
-
-## Contributing
-
-Contributions are welcome! If you have ideas or improvements, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
